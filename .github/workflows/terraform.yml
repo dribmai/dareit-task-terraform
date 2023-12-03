@@ -3,7 +3,7 @@ name: 'Terraform CI'
 on:
   push:
     branches:
-    - main
+    - feat/add-bucket
 
 jobs:
   terraform:
